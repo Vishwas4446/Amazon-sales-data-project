@@ -4,7 +4,7 @@ Amazon is an American Tech Multi-National Company whose business interests inclu
 
 The dataset was taken from Kaggle, it consists of data of over a 1,000 products listed on Amazon. This project thoroughly analyses and synthesizes this data to uncover some insights that will tell us about the various categories and the products sold under them on the website.
 
-An interactive Tableau Dashboard can be accessed and downloaded [here]([https://example.com](https://public.tableau.com/views/Amazonsalesdata_17327845008120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)).
+An interactive Tableau Dashboard can be accessed and downloaded [here](https://public.tableau.com/views/Amazonsalesdata_17327845008120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ---
 
